@@ -1,7 +1,7 @@
 // pages/chart/chart.js
 Page({
   data: {
-    list: [11, 22, 66, 53, 89, 47, 61, 84]
+    list: [159, 221, 166, 253, 99, 147, 61,184]
   },
   onLoad: function (options) {
     // 页面初始化 options为页面跳转所带来的参数
