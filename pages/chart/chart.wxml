@@ -1,0 +1,4 @@
+
+<view class="canvas_demo">
+<canvas class="canvas_view" canvas-id="firstCanvas"></canvas>
+</view>

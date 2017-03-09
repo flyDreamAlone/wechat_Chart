@@ -1,0 +1,16 @@
+/* pages/chart/chart.wxss */
+.canvas_demo{
+    width: 100%;
+    height: 100%;
+    background: lightyellow;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: absolute
+}
+.canvas_view{
+    background: #fff;
+    width: 700rpx;
+    height: 700rpx;
+    border-radius: 20rpx;
+}
